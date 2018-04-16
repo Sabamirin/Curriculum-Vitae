@@ -4,65 +4,48 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar))|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
-|Qiita|[foobar](http://qiita.com/foobar)|
-|SlideShare|[foobar](http://www.slideshare.net/foobar)|
-|Speakerdeck|[foobar](https://speakerdeck.com/foobar)|
+|Blog|[Sabamirinのブログ](https://sabamirin.hatenablog.com/)|
+
+## 資格
+
+|名称|取得年月|
+|---|-----|
+|普通自動車第一種免許|2011.1|
+|基本情報技術者試験|2014.5|
 
 ## スキル
 
 ### 言語
 
 - プログラミング言語
-
+  - VBA(業務3年)
+  - VB.NET(業務2年)
+  - Javascript(業務1年)
+  - C#(業務1年)
 - 日本語
   - ネイティブ
-- 英語（例）
-  - かんたんな日常会話ができる（例）
+- 英語
+  - 英語ドキュメントが読める
 
 ### フレームワーク
 
-- Framework名
-  - 関わった製品やポートフォリオがあればそのリンクを貼る
+- Riot.js
+  - 趣味レベル(https://sabamirin.github.io/duelcalicurator_sandbox/index.html)
+- TypeScript
+  - 環境構築してHello Worldまでのレベル
 
 ### その他
 
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
+- 正規表現
+- Oracle(SQL文を読み書きできるレベル)
 
 ## 強み
+- わからないことがわかります
+- 用意された材料から答えを導きだすのが得意です
+- 物事をただ消費せず、身になるよう心がけています
 
 ## やったことはないが興味があるもの
-
-## 登壇歴
-
-## 受賞歴
-
-## 執筆歴
-
-### 商業
-
-### 同人
-
-## 職務経歴
-
-### yyyy/mm - : 会社名
-
-職務: Webアプリケーションエンジニア（例）
-
-#### 職務内容の名前（レストラン検索とか）
-
-- 職務内容の詳細を箇条書きでかく
-
-#### 職務内容の名前（レストラン検索とか）
-
-- 職務内容の詳細を箇条書きでかく
-
-### yyyy/mm - yyyy/mm: （前職の企業名。あれば）
-
-職務: サーバーサイドエンジニア
-
-#### 職務内容の名前（レストラン検索とか）
-
-- 職務内容の詳細を箇条書きでかく
+- Firebase
+- Unity
+- VR
+- RaspberryPi
